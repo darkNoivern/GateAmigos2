@@ -1,0 +1,12 @@
+.leaderboard-title{
+    font-size: 2rem;
+}
+
+.whiteBorder{
+    border: 2px solid white;
+}
+
+.leaderboard-table{
+    /* width: 100%; */
+    max-width: 40rem;
+}

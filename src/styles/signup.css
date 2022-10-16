@@ -1,0 +1,32 @@
+.sign-up-box{
+    max-width: 95rem !important;
+}
+
+.username-input {
+    width: 100%;
+    max-width: 50rem !important;
+}
+
+.avatar-picture-selection{
+    height: 10rem !important;
+    width: 10rem !important;
+    border-radius: 5rem !important;
+    cursor: pointer;
+}
+
+.profile-pic-options{
+    height: 10rem;
+    width: 10rem;
+    border-radius: 5rem;
+    cursor: pointer;
+}
+
+.active-avatar{
+    border: 0.2rem solid grey;
+    box-shadow: 2px 2px 2px 2px rgb(0, 0, 0, 0.3);
+}
+
+.sign-btn{
+    width: 100%;
+    max-width: 20rem;
+}

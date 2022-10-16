@@ -1,0 +1,46 @@
+.question-box{
+    width: 100%;
+    min-height: 42rem !important;
+}
+
+.question-inner-box{
+    width: 100%;
+    min-height: 20rem;
+}
+
+.tabular-button{
+    cursor: pointer;
+}
+
+.discuss-section{
+    height: calc(100vh - 15rem);
+}
+
+.discuss-chat-show{
+    height: calc(100vh - 18rem);
+    overflow-y: scroll;
+}
+
+.bottom-segment{
+    height: calc(100vh - 13.5rem) !important;
+}
+
+.question-discuss-border{
+    border: 2px solid white;
+}
+
+.discuss-active {
+    background-color: #242333 !important;
+    color: white !important;
+     font-family: 'Montserrat', sans-serif !important;
+    font-weight: 600 !important;
+}
+
+.bg-chat{
+    background-color: #ABA8A9;
+}
+
+.no-question-area{
+    height: 100%;
+    width: 100%;
+}

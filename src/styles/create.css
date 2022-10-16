@@ -1,0 +1,39 @@
+.create-page{
+    width: 100vw;
+    height: 85vh;
+}
+.form-textarea-blog{
+    min-height: 10rem !important;
+    width: 100% !important;
+}
+
+.form-input-blog-heading{
+    width: 100% !important;
+}
+
+.form-input-blog-heading::placeholder{
+    color: rgba(0,0,0,.85) !important;
+}
+
+.blog-container{
+    width: 100%;   
+}
+
+.blog-picture-selection{
+    height: 17rem !important;
+    width: 17rem !important;
+    box-shadow: 20px 20px 50px rgba(0,0,0,0.5) !important;
+}
+
+.create-white-blog{
+    border: 2px solid white;
+}
+
+.blog-picture-selection-image{
+    height: 15rem !important;
+    width: 15rem !important;
+}
+
+.image-card{
+    cursor: pointer;
+}

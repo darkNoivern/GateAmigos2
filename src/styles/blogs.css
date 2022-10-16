@@ -1,0 +1,19 @@
+.blog-show-card{
+    height: 32rem;
+    max-width: 23rem;
+    width: 95%;
+    border: 2px solid white;
+}
+
+.card-img-top{
+    height: 20rem;
+    width: 100%;
+}
+
+.card-col{
+    min-height: 35rem;
+}
+
+.card-body{
+    height: 1rem !important;
+}

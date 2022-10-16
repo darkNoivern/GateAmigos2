@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+/* comforta 700 bold */
+.navbar-brand{
+    font-family: 'Comfortaa', cursive;
+    font-weight: 700 !important;
+    font-size: 1.7rem !important;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
+
+.logout-link{
+    cursor: pointer;
+}
+
+.navbar-toggler:focus{
+    box-shadow: none !important;
+}
+
+.navbar-profile{
+    height: 2.5rem;
+    width: 2.5rem;
+}
+.nav-link{
+    color: white !important;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.1rem;
+}
+.active{
+    background-color: #01B0D3 !important;
+    color: #242333 !important;
+}

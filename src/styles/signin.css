@@ -1,0 +1,13 @@
+.sign-round{
+    border-radius: 1.5rem !important;
+}
+
+.sign-in-box{
+    min-height: 5rem;
+    width: 20rem;
+}
+
+.sign-btn{
+    width: 100%;
+    max-width: 20rem;
+}

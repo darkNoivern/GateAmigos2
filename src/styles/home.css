@@ -1,0 +1,23 @@
+.home-page{
+    width: 100vw;
+    min-height: 85vh;
+    /* overflow-y: scroll; */
+}
+  
+.homepage-image{
+    width: 80vw !important;
+    max-width: 35rem;
+    height: 80vw;
+    max-height: 35rem;
+    border-radius: 50%;
+}
+
+.homepage-columns{
+    min-height: 45vh;
+}
+
+.homepage-text{
+    font-weight: 600;
+    font-size: 3rem;
+    line-height: 120%;
+}
